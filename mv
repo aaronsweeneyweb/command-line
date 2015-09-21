@@ -1,0 +1,4 @@
+The "mv" command is used to move files or directories from place to place. It can also be used to change the name of files.
+
+'mv thisFile ..' will move thisFile to the parent directory.
+'mv thisFile renamedFile' will rename thisFile, renamedFile.
